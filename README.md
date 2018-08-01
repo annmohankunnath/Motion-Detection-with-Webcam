@@ -7,4 +7,4 @@ All the 4 windows( Gray frames, Absolute Difference Frames, Absolute Difference 
 
 The timestamps are written into a dataframe and the dataframe is written into a csv file called "Times.csv"
 
-Finally, the device camera is stopped from capturing any more video and all the windows are closed and associated memory deallocated
+Finally, the device camera is stopped from capturing any more video and all the windows are closed and associated memory deallocated.
